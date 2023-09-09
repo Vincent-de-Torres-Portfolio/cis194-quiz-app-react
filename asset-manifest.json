@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cis194-quiz-app-react/static/css/main.5a032b4e.chunk.css",
+    "main.js": "/cis194-quiz-app-react/static/js/main.f3eee7a2.chunk.js",
+    "main.js.map": "/cis194-quiz-app-react/static/js/main.f3eee7a2.chunk.js.map",
+    "runtime-main.js": "/cis194-quiz-app-react/static/js/runtime-main.02e3ff32.js",
+    "runtime-main.js.map": "/cis194-quiz-app-react/static/js/runtime-main.02e3ff32.js.map",
+    "static/js/2.45a5db28.chunk.js": "/cis194-quiz-app-react/static/js/2.45a5db28.chunk.js",
+    "static/js/2.45a5db28.chunk.js.map": "/cis194-quiz-app-react/static/js/2.45a5db28.chunk.js.map",
+    "index.html": "/cis194-quiz-app-react/index.html",
+    "precache-manifest.18cbd1c93a22cabb3e1944b49521d6ae.js": "/cis194-quiz-app-react/precache-manifest.18cbd1c93a22cabb3e1944b49521d6ae.js",
+    "service-worker.js": "/cis194-quiz-app-react/service-worker.js",
+    "static/css/main.5a032b4e.chunk.css.map": "/cis194-quiz-app-react/static/css/main.5a032b4e.chunk.css.map",
+    "static/js/2.45a5db28.chunk.js.LICENSE.txt": "/cis194-quiz-app-react/static/js/2.45a5db28.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02e3ff32.js",
+    "static/js/2.45a5db28.chunk.js",
+    "static/css/main.5a032b4e.chunk.css",
+    "static/js/main.f3eee7a2.chunk.js"
+  ]
+}
